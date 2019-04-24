@@ -6,7 +6,7 @@
 
 #header
 {
-	background: #ccc;
+	background: blue;
 	padding: 20px;
 }
 
@@ -16,7 +16,7 @@
 {
 	float: left;
 	width: 100%;
-	background: #333;
+	background: purple;
 }
 
 #navigation ul
@@ -41,7 +41,7 @@
 	border-right: 1px solid #fff;
 }
 
-#navigation li a:hover { background: #383; }
+#navigation li a:hover { background: white; }
 
 #edito
 {
